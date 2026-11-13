@@ -1,0 +1,5 @@
+# Clases compiladas
+out/
+
+# Credenciales (token, claves y certificados). NUNCA subir a Git.
+seguridad/

@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "ProyectoIntegrador_vF/lib/jna-5.17.0.jar",
+        "ProyectoIntegrador_vF/lib/jna-platform-5.17.0.jar",
+        "ProyectoIntegrador_vF/lib/oshi-core-6.8.3.jar",
+        "ProyectoIntegrador_vF/lib/slf4j-api-2.0.17.jar"
+    ]
+}
